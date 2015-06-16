@@ -3,6 +3,7 @@ Check out:
 * http://browserify.org/
 * https://www.npmjs.com/package/browserify
 * https://github.com/substack/browserify-handbook
+* http://blakeembrey.com/articles/2013/09/introduction-to-browserify/
 
 ## Getting Started
 
